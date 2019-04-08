@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentChangeActivityApp</string>
+    <string name="titulo_activity1">Estás en la Activity 1</string>
+    <string name="btn_ira2">Ir a Activity 2</string>
+    <string name="titulo_activity2">Estás en la Activity 2</string>
+    <string name="btn_ira1">Ir a Activity 1</string>
+</resources>
